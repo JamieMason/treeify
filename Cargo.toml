@@ -1,0 +1,6 @@
+[package]
+name = "treeify"
+version = "0.1.0"
+authors = ["Jamie Mason <jamie@foldleft.io>"]
+
+[dependencies]

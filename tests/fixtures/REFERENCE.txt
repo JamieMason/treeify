@@ -1,0 +1,34 @@
+├── Cargo.lock
+├── Cargo.toml
+├── src
+│   └── lib.rs
+├── target
+│   └── debug
+│       ├── build
+│       ├── deps
+│       │   ├── integration_test-0a54111332ab07a1
+│       │   ├── integration_test-0a54111332ab07a1.dSYM
+│       │   │   └── Contents
+│       │   │       ├── Info.plist
+│       │   │       └── Resources
+│       │   │           └── DWARF
+│       │   │               └── integration_test-0a54111332ab07a1
+│       │   ├── libtreeify-f22ef5fc541ac030.rlib
+│       │   ├── treeify-3d5a0548a2bbafa3
+│       │   └── treeify-3d5a0548a2bbafa3.dSYM
+│       │       └── Contents
+│       │           ├── Info.plist
+│       │           └── Resources
+│       │               └── DWARF
+│       │                   └── treeify-3d5a0548a2bbafa3
+│       ├── examples
+│       ├── incremental
+│       ├── integration_test-0a54111332ab07a1
+│       ├── integration_test-0a54111332ab07a1.d
+│       ├── libtreeify.d
+│       ├── libtreeify.rlib
+│       ├── native
+│       ├── treeify-3d5a0548a2bbafa3
+│       └── treeify-3d5a0548a2bbafa3.d
+└── tests
+    └── integration_test.rs
